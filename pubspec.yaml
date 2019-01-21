@@ -1,0 +1,22 @@
+name: Tinder_Matching
+description: Tinder Matching is a dating application
+version: 0.0.1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  scaffold_factory: ^0.7.8
+  flutter_slidable: ^0.4.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+        - asset/
